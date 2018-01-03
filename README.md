@@ -1,7 +1,7 @@
 # 바이오 케라스 : 케라스와 R을  활용하는  바이오인포메틱스
 
-<img src="https://github.com/biospin/cloudnomad_bio/blob/master/main01.jpg"  width="600"  height="500"/>
-
+<img src="https://github.com/biospin/biokeras/blob/master/main01.png"  width="600"  height="500"/>
+          
 
 ## 스터디 정보
 저희 모임은 강의식이 아닌 자신이 스스로 공부한 내용을 여러 사람과 공유하는 스터디 방식이며, 스스로 공부하고자 하는 열정을 꼭 준비물로 가지고 와 주시고, 열심히 발표를 해주시면 더욱 감사합니다.
