@@ -18,9 +18,10 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 
 2. Keras
    - Deep Learning with Keras : http://acornpub.co.kr/book/deep-learning-keras
+   - 책 예제 코드 : https://github.com/PacktPublishing/Deep-Learning-with-Keras 
 
 3. 생명정보학 
-  -  생명정보학개론 :  https://www.youtube.com/watch?v=08JEruAG8J8&list=PLJiADlvom5cWTvqWvOThaOKstsIWLIBEH ( 40 강좌 )
+   -  생명정보학개론 :  https://www.youtube.com/watch?v=08JEruAG8J8&list=PLJiADlvom5cWTvqWvOThaOKstsIWLIBEH ( 40 강좌 )
 
 4. 논문읽기 모임
    - PR12 딥러닝  : https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS
