@@ -47,6 +47,9 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 - 딥바이오  : https://github.com/biospin/DeepBio
 
 
+## 자매 스터디
+- https://www.facebook.com/events/383457538771410/
+
 ## Schedule
 
 ### Part 1.
