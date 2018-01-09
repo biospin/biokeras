@@ -54,7 +54,7 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |----| ---------|----------------------------------------------
 |  1 |2018. 1.12|(R 기초)  저자 특강 01
 |    |          |(생명정보학) 생명정보개론 제1강
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임)  [Generative Adversarial Nets](https://github.com/biospin/biokeras/blob/master/part01/week1_0112/GAN.pdf)
 |  2 |2018. 1.19|(R 기초)  저자 특강 02
 |    |          |(생명정보학) 생명정보개론 제2강
 |    |          |(논문읽기 모임)  발표자가 선정
