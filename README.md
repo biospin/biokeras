@@ -52,9 +52,9 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 ### Part 1.
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
-|  1 |2018. 1.12|(R 기초)  저자 특강 01
+|  1 |2018. 1.12|(R 기초)  저자 특강 01(김승욱)
 |    |          |(생명정보학) 생명정보개론 제1강
-|    |          |(논문읽기 모임)  [Generative Adversarial Nets](https://github.com/biospin/biokeras/blob/master/part01/week1_0112/GAN.pdf)
+|    |          |(논문읽기 모임)  [Generative Adversarial Nets](https://github.com/biospin/biokeras/blob/master/part01/week1_0112/GAN.pdf)(지용기)
 |  2 |2018. 1.19|(R 기초)  저자 특강 02
 |    |          |(생명정보학) 생명정보개론 제2강
 |    |          |(논문읽기 모임)  발표자가 선정
@@ -87,6 +87,7 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
 |  1 |2018. 3.16|(Keras)   4장. 적대적 생성 네트워크와 웨이브넷 
+|    |          | https://raw.githubusercontent.com/bstriner/keras-adversarial/master/examples/image_utils.py
 |    |          |(생명정보학) 생명정보개론 제9강
 |    |          |(논문읽기 모임)  발표자가 선정
 |  2 |2018. 3.23|(R 기초) 5장.데이터 다루기                
