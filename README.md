@@ -25,12 +25,14 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 
 4. 논문읽기 모임
    - udacity의 Deep Learning : https://www.udacity.com/course/deep-learning--ud730
+   - Stanford CS224N(Natural Language Processing with Deep Learning) : https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja
    - PR12 딥러닝  : https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS
    - 딥바이오 논문 : https://github.com/gokceneraslan/awesome-deepbio
 
 ## 차후 스터디 
   - 아이디어 고갈됨.
   - 스티디 진행하면서 의견 수렴함.
+  - 이후에는 딥러닝 스티디 안 할 생각임.(신규인원과 기존 인원 차이가 큼)
 
 
 ## 장소
@@ -61,13 +63,13 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |    |          |(논문읽기 모임)  [Generative Adversarial Nets](https://github.com/biospin/biokeras/blob/master/part01/week1_0112/GAN.pdf)(지용기)
 |  2 |2018. 1.19|(R 기초)  저자 특강 02
 |    |          |(생명정보학) 생명정보개론 제2강
-|    |          |(논문읽기 모임) udacity의 Deep Learning 3강 : Deep Neural Networks
+|    |          |(논문읽기 모임) udacity의 Deep Learning 1강 :From Machine Learning to Deep Learning
 |  3 |2018. 1.26|(Keras)  1장. 신경망 기초
 |    |          |(생명정보학) 생명정보개론 제3강
-|    |          |(논문읽기 모임)  udacity의 Deep Learning 4강 : Convolutional Neural Networks
+|    |          |(논문읽기 모임) udacity의 Deep Learning 2강 : Assignment: notMNIST
 |  4 |2018. 2. 2|(R 기초)   2장. 무작정 따라 하는 실습
 |    |          |(생명정보학) 생명정보개론 제4강
-|    |          |(논문읽기 모임)  udacity의 Deep Learning 5강 : Deep Models for Text and Sequences
+|    |          |(논문읽기 모임) udacity의 Deep Learning 3강 : Deep Neural Networks
 
 
 ### Part 2.
@@ -75,13 +77,13 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |----| ---------|----------------------------------------------
 |  1 |2018. 2. 9|(Keras)   2장. 케라스 설치와 API  
 |    |          |(생명정보학) 생명정보개론 제5강
-|    |          |(논문읽기 모임) 발표자가 선정
+|    |          |(논문읽기 모임)  udacity의 Deep Learning 4강 : Convolutional Neural Networks
 |  2 |2018. 2.23|(R 기초) 3장.R아보기        
 |    |          |(생명정보학) 생명정보개론 제6강 
-|    |          |(논문읽기 모임) 발표자가 선정
+|    |          |(논문읽기 모임)  udacity의 Deep Learning 5강 : Deep Models for Text and Sequences
 |  3 |2018. 3. 2|(Keras)  3장. 합성곱 신경망을 활용한 딥러닝
 |    |          |(생명정보학) 생명정보개론 제7강
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임)  PR-040: WaveNet - A Generative Model for Raw Audio
 |  4 |2018. 3. 9|(R 기초)  4장.데이터 이해하기        
 |    |          |(생명정보학) 생명정보개론 제8강
 |    |          |(논문읽기 모임)  PR-022: InfoGAN
@@ -93,16 +95,16 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |  1 |2018. 3.16|(Keras)   4장. 적대적 생성 네트워크와 웨이브넷 
 |    |          | https://raw.githubusercontent.com/bstriner/keras-adversarial/master/examples/image_utils.py
 |    |          |(생명정보학) 생명정보개론 제9강
-|    |          |(논문읽기 모임)  WaveNet - A Generative Model for Raw Audio
+|    |          |(논문읽기 모임)  PR-027:GloVe - Global vectors for word representation
 |  2 |2018. 3.23|(R 기초) 5장.데이터 다루기                
 |    |          |(생명정보학) 생명정보개론 제10강
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임) Stanford CS224N : Lecture 1 | Natural Language Processing with Deep Learning
 |  3 |2018. 3.30|(Keras)  5장. 단어 임베딩
-|    |          |(생명정보학) 생명정보개론 제11강
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(생명정보학) 생명정보개론 제11강 
+|    |          |(논문읽기 모임) Stanford CS224N : Lecture 2 | Word Vector Representations: word2vec
 |  4 |2018. 4. 6|(R 기초)   6장.시각화             
 |    |          |(생명정보학) 생명정보개론 제12강 
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임) Stanford CS224N : Lecture 3 | More Word Vectors
 
 
 
@@ -111,7 +113,7 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |----| ---------|----------------------------------------------
 |  1 |2018. 4.13|(Keras)   6장. 순환 신경망 
 |    |          |(생명정보학) 생명정보개론 제13강
-|    |          |(논문읽기 모임)  PR-027:GloVe - Global vectors for word representation 
+|    |          |(논문읽기 모임)  발표자가 선정
 |  2 |2018. 4.20|(Keras) 분산케라스
 |    |          |(생명정보학) 생명정보개론 제14강
 |    |          |(논문읽기 모임)  발표자가 선정
