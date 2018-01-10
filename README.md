@@ -113,14 +113,15 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |----| ---------|----------------------------------------------
 |  1 |2018. 4.13|(Keras)   6장. 순환 신경망 
 |    |          |(생명정보학) 생명정보개론 제13강
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임)  PR-042: Adam: A Method for Stochastic Optimization
 |  2 |2018. 4.20|(Keras) 분산케라스
 |    |          |(생명정보학) 생명정보개론 제14강
-|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임)  PR-034: Inception and Xception
 |  3 |2018. 4.27|(Keras)  7장. 기타 딥러닝 모델 
 |    |          |(생명정보학) 생명정보개론 제15강
-|    |          |(논문읽기 모임)  PR-034: Inception and Xception
-|  4 |2018. 5. 4|(Keras)  8장. AI 게임 플레이
 |    |          |(논문읽기 모임)  PR-005: Playing Atari with Deep Reinforcement Learning
+|  4 |2018. 5. 4|(Keras)  8장. AI 게임 플레이
+|    |          |(논문읽기 모임)  발표자가 선정
+|    |          |(논문읽기 모임)  발표자가 선정
 
 
