@@ -32,7 +32,6 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 ## 차후 스터디 
   - 아이디어 고갈됨.
   - 스티디 진행하면서 의견 수렴함.
-  - 이후에는 딥러닝 스티디 안 할 생각임.(신규인원과 기존 인원 차이가 큼)
 
 
 ## 장소
