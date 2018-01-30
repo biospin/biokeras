@@ -67,7 +67,7 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |    |          | [실습 R 코드](https://github.com/biospin/biokeras/blob/master/part01/week3_0126/1_basic_neural_network.r)
 |    |          |(생명정보학) [생명정보개론 제3강](https://github.com/biospin/biokeras/blob/master/part01/week3_0126/KMOOC%20%EC%83%9D%EB%AA%85%EC%A0%95%EB%B3%B4%ED%95%99%EA%B0%9C%EB%A1%A0%203%EA%B0%95.pdf)(조은해)
 |    |          |(논문읽기 모임) [udacity의 Deep Learning 2강 : Assignment: notMNIST](https://github.com/biospin/biokeras/blob/master/part01/week3_0126/UDACITY%20Deep%20Learning%202%EA%B0%95.pdf)(홍정우)
-|  4 |2018. 2. 2|(R 기초)   2장. 무작정 따라 하는 실습
+|  4 |2018. 2. 2|(R 기초)   [2장. 무작정 따라 하는 실습](https://github.com/biospin/biokeras/blob/master/part01/week4_0202/2%EC%9E%A5.%EB%AC%B4%EC%9E%91%EC%A0%95%EB%94%B0%EB%9D%BC%ED%95%98%EB%8A%94%EC%8B%A4%EC%8A%B5.ipynb)(지용기)
 |    |          |(생명정보학) 생명정보개론 제4강
 |    |          |(논문읽기 모임) udacity의 Deep Learning 3강 : Deep Neural Networks
 
