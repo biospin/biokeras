@@ -60,10 +60,11 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |  1 |2018. 1.12|(R 기초)  저자 특강 01(김승욱)
 |    |          |(생명정보학) [생명정보개론 제1강](https://github.com/biospin/biokeras/blob/master/part01/week1_0112/KMOOC%20%EC%83%9D%EB%AA%85%EC%A0%95%EB%B3%B4%ED%95%99%EA%B0%9C%EB%A1%A0%201%EA%B0%95.pdf)(조은해)
 |    |          |(논문읽기 모임)  [Generative Adversarial Nets](https://github.com/biospin/biokeras/blob/master/part01/week1_0112/GAN.pdf)(지용기)
-|  2 |2018. 1.19|(R 기초)  저자 특강 02
+|  2 |2018. 1.19|(R 기초)  GAN 특강 (김태흥)
 |    |          |(생명정보학) [생명정보개론 제2강](https://github.com/biospin/biokeras/blob/master/part01/week2_0119/KMOOC%20%EC%83%9D%EB%AA%85%EC%A0%95%EB%B3%B4%ED%95%99%EA%B0%9C%EB%A1%A0%202%EA%B0%95.pdf)(조은해)
 |    |          |(논문읽기 모임) [udacity의 Deep Learning 1강 :From Machine Learning to Deep Learning](https://github.com/biospin/biokeras/blob/master/part01/week2_0119/UDACITY%20Deep%20Learning%201%EA%B0%95.pdf)(홍정우)
 |  3 |2018. 1.26|(Keras)  [1장. 신경망 기초](https://github.com/biospin/biokeras/blob/master/part01/week3_0126/Keras_ch1_20180126_2.pdf)(오세진)
+|    |          | [실습 R 코드](https://github.com/biospin/biokeras/blob/master/part01/week3_0126/1_basic_neural_network.r)
 |    |          |(생명정보학) [생명정보개론 제3강](https://github.com/biospin/biokeras/blob/master/part01/week3_0126/KMOOC%20%EC%83%9D%EB%AA%85%EC%A0%95%EB%B3%B4%ED%95%99%EA%B0%9C%EB%A1%A0%203%EA%B0%95.pdf)(조은해)
 |    |          |(논문읽기 모임) [udacity의 Deep Learning 2강 : Assignment: notMNIST](https://github.com/biospin/biokeras/blob/master/part01/week3_0126/UDACITY%20Deep%20Learning%202%EA%B0%95.pdf)(홍정우)
 |  4 |2018. 2. 2|(R 기초)   2장. 무작정 따라 하는 실습
