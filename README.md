@@ -83,10 +83,10 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |    |          |(논문읽기 모임)  udacity의 Deep Learning 5강 : Deep Models for Text and Sequences
 |  3 |2018. 3. 2|(Keras)  3장. 합성곱 신경망을 활용한 딥러닝
 |    |          |(생명정보학) 생명정보개론 제7강
-|    |          |(논문읽기 모임)  PR-040: WaveNet - A Generative Model for Raw Audio
+|    |          |(논문읽기 모임)  PR-022: InfoGAN
 |  4 |2018. 3. 9|(R 기초)  4장.데이터 이해하기        
 |    |          |(생명정보학) 생명정보개론 제8강
-|    |          |(논문읽기 모임)  PR-022: InfoGAN
+|    |          |(논문읽기 모임)  [PR-040: WaveNet - A Generative Model for Raw Audio](https://github.com/biospin/biokeras/blob/master/part02/week4_0309/WaveNet.pdf)(지용기)
 
 
 ### Part 3.
