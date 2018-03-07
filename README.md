@@ -79,7 +79,7 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
 |    |          |(생명정보학) 생명정보개론 제5강
 |    |          |(논문읽기 모임)  udacity의 Deep Learning 4강 : Convolutional Neural Networks
 |  2 |2018. 2.23|(R 기초) 3장.R아보기        
-|    |          |(생명정보학) 생명정보개론 제6강 
+|    |          |(생명정보학) [생명정보개론 제6강](https://github.com/biospin/biokeras/blob/master/part02/week2_0223/0223.pdf)(박혜진) 
 |    |          |(논문읽기 모임)  udacity의 Deep Learning 5강 : Deep Models for Text and Sequences
 |  3 |2018. 3. 2|(Keras)  3장. 합성곱 신경망을 활용한 딥러닝
 |    |          |(생명정보학) 생명정보개론 제7강
