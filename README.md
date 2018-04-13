@@ -30,8 +30,12 @@ https://drive.google.com/drive/u/1/folders/1M-KukxONIWpWJD72EyA3a5HQEz27Ldxu
    - 딥바이오 논문 : https://github.com/gokceneraslan/awesome-deepbio
 
 ## 차후 스터디 
-  - 아이디어 고갈됨.
-  - 스티디 진행하면서 의견 수렴함.
+- 의료정보 시스템 : https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758
+- MS  AI 전문가 과정 ( 무료 ) : https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
+- 인공지능을 위한 선형대수(주재걸 교수님)  : http://www.edwith.org/linearalgebra4ai
+- 머신러닝을 위한 python(최성철 교수님) : http://www.edwith.org/aipython
+- Bayesian Deep Learning(최성준 박사님) : http://www.edwith.org/bayesiandeeplearning
+
 
 
 ## 장소
